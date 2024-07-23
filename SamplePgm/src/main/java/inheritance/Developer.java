@@ -7,6 +7,7 @@ public class Developer extends Employee {
 		Developer dev = new Developer();
 		Tester tes = new Tester();
 		tes.testData();
+		tes.display();
 		dev.devData();
 		System.out.println("EmpId:"+dev.devId);
 
