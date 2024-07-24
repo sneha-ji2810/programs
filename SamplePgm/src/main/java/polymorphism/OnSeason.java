@@ -12,7 +12,7 @@ public class OnSeason extends OffSeason {
 
 	public static void main(String[] args) {
 		OnSeason obj = new OnSeason();
-		obj.discount(2000);
+		obj.discount(4000);
 		OffSeason of = new OffSeason();
 		of.discount(1000);
 
