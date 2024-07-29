@@ -16,8 +16,8 @@ public class Child extends Parent{
 		Child c = new Child();
 		c.sum(6,4);
 
-		Parent p = new Child();//Upcasting
-		p.sum(2, 2);
+		//Parent p = new Child();//Upcasting
+		//p.sum(2, 2);
 	}
 
 }
